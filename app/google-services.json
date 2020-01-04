@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270122252698",
+    "firebase_url": "https://carsafety-8898e.firebaseio.com",
+    "project_id": "carsafety-8898e",
+    "storage_bucket": "carsafety-8898e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270122252698:android:efcd7c031b53767c69a223",
+        "android_client_info": {
+          "package_name": "com.example.carsafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270122252698-t1jeeeia5bo4p1m04847ip66k9l4ikql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carsafety",
+            "certificate_hash": "ad047f3c4af0114bef17da07a5af1be650bfe21e"
+          }
+        },
+        {
+          "client_id": "270122252698-d7h7a4ob501ss5m9n63jt2sjjis8j9lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFOEefxzVf2PrhlHSyDLzQwM9BhEHhVJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270122252698-d7h7a4ob501ss5m9n63jt2sjjis8j9lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
